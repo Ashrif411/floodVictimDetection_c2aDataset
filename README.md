@@ -1,3 +1,3 @@
 In this project, I tried to detect flood victims from UAV images using computer vision techniques. I have used a synthetic dataset, C2A dataset, which is available in Kaggle (https://www.kaggle.com/datasets/rgbnihal/c2a-dataset). In this dataset there are images of different disasters. But I have used only flood images to train my model and test the model's performance.
 
-I have experimented with transformer-based detection model RT-DETR (RT-DETR Large) and different versions of state-of-the-art detection model YOLO11 (YOLO11s, YOLO11l). The notebooks are available in the main branch.   
+I have experimented with transformer-based detection model RT-DETR (RT-DETR Large) and different versions of state-of-the-art detection model YOLO11 (YOLO11s, YOLO11l, YOLO11m). The notebooks are available in the main branch.   
